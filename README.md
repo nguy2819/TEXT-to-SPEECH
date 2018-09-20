@@ -1,4 +1,4 @@
-# TEXT TO SPEECH
+# [TEXT TO SPEECH](https://scrimba.com/p/pRB9Hw/cv2vpA6)
 
 > The 2 most important parts in this project are index.js, script in index.html, and lastly, the summary from voice.js
 - In index.js
@@ -25,3 +25,4 @@ speechSynthesis.speak(msg);
     <script src="index.pack.js"></script>
 </body>
 ```
+- I learned this tutorial from [Scrimba](https://scrimba.com/p/pRB9Hw/cv2vpA6)
